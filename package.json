@@ -1,7 +1,6 @@
 {
     "name": "mapbox-studio-default-source",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "Default source project for Mapbox Studio.",
-    "private": true,
     "main": "./package.json"
 }
